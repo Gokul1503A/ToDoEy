@@ -1,19 +1,20 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+this app creates catagories and lists 
+
+todo items can be added 
+
+uasge of table views
+
+realm is used to store data in the backend 
+
+swipe to delete option is incorporated 
+
+items can be organised in catagories and respective colors to distinguish the items 
 
 
-# Todoey ✓
 
-## Our Goal
-
-The objective of this tutorial is to understand how to save data in iOS. We'll look at various choices and learn to use UserDefaults, Core Data and Realm.
+![Simulator Screenshot - iPhone 15 - 2024-01-02 at 15 53 32](https://github.com/Gokul1503A/ToDoEy/assets/154863043/4aa8b276-750e-491e-bb18-217aa8d5ae64)
 
 
-## What you will create
-
-A todolist app to keep track of all your tasks.
 
 
->This is a companion project to The App Brewery's Complete iOS Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
-
+![Simulator Screenshot - iPhone 15 - 2024-01-02 at 15 54 15](https://github.com/Gokul1503A/ToDoEy/assets/154863043/7e7f29cb-b8bc-46d7-94f2-e0b0647dc872)
